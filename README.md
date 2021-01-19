@@ -1,7 +1,7 @@
 # kiteconnect
 **[Zerodha](https://zerodha.com/)** Kiteconnect using [puppeteer](https://pptr.dev/).<br/>
 Automation script for Zerodha [Kite](https://kite.zerodha.com/) Authentication.<br/>
-Scripts will genrate Request Token & Access Token.
+Script will genrate <b>Request Token & Access Token</b>.
 
 ## For NodeJs
 
