@@ -1,0 +1,15 @@
+{
+  "name": "puppeteer_kiteconnect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kiteconnect": "^3.1.0",
+    "puppeteer": "^3.1.0"
+  }
+}
